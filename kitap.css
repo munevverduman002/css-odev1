@@ -1,0 +1,28 @@
+body {background-color: rgb(230, 196, 196);}
+        h1 {
+            text-align: center;
+            text-transform: uppercase;
+        }
+        mark{
+            color:rgb(221, 195, 195);
+            background-color: rgb(99, 17, 66);
+        }
+        .menuliste {
+            list-style-type: none;
+            text-align: center;
+        }
+        .menuliste li{
+            display:inline;
+            padding: 50px;
+        }
+        .urunliste {
+            color:rgb(99, 17, 66);
+            text-align: center;
+        }
+       
+        img {
+            width: 200px;
+        }
+        .urunliste {
+            list-style-position: inside;
+        }
